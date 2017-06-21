@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 int i=0;
+
+                String a="a";
             }
         });
     }
