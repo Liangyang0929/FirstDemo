@@ -27,6 +27,9 @@ public class MainActivity extends AppCompatActivity {
                 int k=0;
                 int z=0;
                 String extra="master 再次提交";
+
+
+                ImageView mImageView=new ImageView(MainActivity.this);
             }
         });
     }
