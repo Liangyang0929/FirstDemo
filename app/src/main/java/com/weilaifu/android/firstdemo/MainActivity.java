@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 mButton.setText("develop");
 
                 String tag="tag测试 tag  V2.0";
+                String tag1="tag测试 打tag标签";
             }
         });
     }
