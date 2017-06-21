@@ -20,11 +20,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 mButton.setText("develop");
 
-                int i=0;
-                int j=0;
-                int k=0;
-                int z=0;
-                String extra="master 再次提交";
 
 
                 ImageView mImageView=new ImageView(MainActivity.this);
