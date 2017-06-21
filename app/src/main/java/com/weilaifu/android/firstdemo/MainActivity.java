@@ -25,6 +25,14 @@ public class MainActivity extends AppCompatActivity {
                 int z=0;
 
                 int w=1;
+
+                String a="a";
+
+                String b="b";
+
+                String c="c";
+
+                String d="d";
             }
         });
     }
