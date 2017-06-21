@@ -18,11 +18,7 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mButton.setText("develop");
-
-
-
-                ImageView mImageView=new ImageView(MainActivity.this);
+                int i=0;
             }
         });
     }
