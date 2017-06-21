@@ -18,11 +18,7 @@ public class MainActivity extends AppCompatActivity {
         mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int i=0;
 
-                int j=0;
-
-                int z=0;
             }
         });
     }
