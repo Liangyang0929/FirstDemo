@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 mButton.setText("develop");
+
+                String tag="tag测试 tag  V2.0";
             }
         });
     }
