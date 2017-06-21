@@ -3,6 +3,7 @@ package com.weilaifu.android.firstdemo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -20,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
                 mButton.setText("develop");
 
                 String tag="tag测试 tag  V2.0";
+
+
+                ImageView mImageView=new ImageView(MainActivity.this);
             }
         });
     }
