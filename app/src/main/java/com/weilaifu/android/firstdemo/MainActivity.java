@@ -3,6 +3,7 @@ package com.weilaifu.android.firstdemo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -18,9 +19,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 mButton.setText("develop");
-
-                String tag="tag测试 tag  V2.0";
-                String tag1="tag测试 打tag标签";
 
                 int i=0;
                 int j=0;
